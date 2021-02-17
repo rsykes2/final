@@ -1,5 +1,5 @@
 {
-  "name": "shopify-app-node",
+  "name": "final",
   "version": "1.0.0",
   "description": "Shopify's node app for CLI tool",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/shopify-app-node.git"
+    "url": "git+https://github.com/Shopify/final.git"
   },
   "author": "Shopify Inc.",
   "license": "MIT",
